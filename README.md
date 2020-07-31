@@ -5,7 +5,7 @@ __Tools needed:-__
 
 LP+
 
-[iMacros Browser extention] (https://imacros.net/download/)
+[iMacros Browser extention](https://imacros.net/download/)
 
 
 __Setting Up__:-
